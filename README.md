@@ -36,8 +36,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-<h3>Developed By: KARTHIKEYAN R</h3>
-<h3>Register Number: 212222240046</h3>
+<h3>Developed By: MOHAMED ASEEM P</h3>
+<h3>Register Number: 212221230063</h3>
 <h3>Program</h3>
 
 ```
